@@ -1,0 +1,698 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"println",
+				"println!	println! …"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.c",
+			"settings":
+			{
+				"buffer_size": 767,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "include/i2c1.h",
+			"settings":
+			{
+				"buffer_size": 1784,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "include/init.h",
+			"settings":
+			{
+				"buffer_size": 2826,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Documents/IAR/stm32-f407-GY521/include/initialization.h",
+			"settings":
+			{
+				"buffer_size": 2598,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "include/tasks.h",
+			"settings":
+			{
+				"buffer_size": 1274,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "include/usart3.h",
+			"settings":
+			{
+				"buffer_size": 216,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Rust/Cargo.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Test"
+				]
+			],
+			[
+				"Packages/Rust/Cargo.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/Rust/Rust.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Rust/Rust.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/Rust/Rust.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/build_Rust2.sublime-build",
+					""
+				],
+				[
+					"Packages/User/build_Rust2.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/build_Rust2.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/build_rust.sublime-build",
+					""
+				],
+				[
+					"Packages/User/build_rust.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/build_rust.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Documents/IAR/stm32-f100-GY521",
+		"/D/Documents/IAR/stm32-f100-GY521/include"
+	],
+	"file_history":
+	[
+		"/C/Users/Dmitry/Desktop/вопросы свадьба конкурс.txt",
+		"/D/Documents/IAR/stm32-f407-GY521/include/i2C_2.h",
+		"/D/Documents/IAR/stm32-f100-GY521/include/i2c1.h",
+		"/D/Documents/IAR/stm32-f407-GY521/main.c",
+		"/D/Documents/IAR/stm32-f100-GY521/include/usart_1.h",
+		"/D/Documents/IAR/stm32-f100-GY521/include/usart3.h",
+		"/D/Documents/IAR/stm32-f100-GY521/include/systemDev.h",
+		"/D/Documents/IAR/stm32-f407-GY521/include/parameters.h",
+		"/D/Documents/IAR/stm32-f100-GY521/include/parameters.h",
+		"/D/Documents/IAR/stm32-f407-GY521/include/tasks.h",
+		"/D/Documents/IAR/stm32-f100-GY521/include/init.h",
+		"/D/Documents/IAR/stm32-f407-GY521/include/initialization.h",
+		"/D/Documents/IAR/stm32-f100-GY521/include/tasks.h",
+		"/D/Documents/IAR/stm32-f407-GY521/include/defines.h",
+		"/D/Documents/IAR/stm32-f100-GY521/STM32F10x/stm32f10x.h",
+		"/D/Documents/IAR/stm32-f100-GY521/include/i2c_1.h",
+		"/D/Documents/IAR/rb100-i2c-DMA_USART1_tx-rb100-i2c-DMA_USART1_tx/rb100-i2c-DMA_USART1_tx-rb100-i2c-DMA_USART1_tx/inc/usart_1.h",
+		"/D/Documents/IAR/stm32-f100-GY521/STM32F10x/system_stm32f10x.h",
+		"/D/Documents/IAR/stm32-f407-GY521/include/uart_1.h",
+		"/D/Documents/IAR/stm32f407_acselerometers-master/main.c",
+		"/D/Documents/IAR/stm32f407_acselerometers/main.c",
+		"/D/Documents/IAR/stm32-f100-GY521/STM32F10x/startup/iar/startup_stm32f10x_md_vl.s",
+		"/D/Documents/IAR/stm32-f100-GY521/include/init_DMA.h",
+		"/D/Documents/IAR/stm32-f100-GY521/include/init_gpio.h",
+		"/D/Documents/IAR/stm32-f407+arduino-Ethernet-shield/include/parameters.h",
+		"/D/Documents/IAR/stm32-f407+arduino-Ethernet-shield/include/defines.h",
+		"/D/Documents/IAR/stm32-f407+arduino-Ethernet-shield/include/spi_1.h",
+		"/D/Documents/IAR/stm32-f407+arduino-Ethernet-shield/include/initialization.h",
+		"/D/Documents/IAR/stm32-f407+arduino-Ethernet-shield/main.c",
+		"/D/Documents/IAR/stm32-f407+arduino-Ethernet-shield/include/system/stm32f4xx.h",
+		"/D/Documents/IAR/stm32-f407-GY521/include/system_dev.h",
+		"/D/Documents/IAR/stm32-f407+arduino-Ethernet-shield/include/system/startup_stm32f40xx.s",
+		"/D/Documents/IAR/stm32f407_acselerometers-master/include/initialization.h",
+		"/D/Documents/IAR/rb100-i2c-DMA_USART1_tx-rb100-i2c-DMA_USART1_tx/rb100-i2c-DMA_USART1_tx-rb100-i2c-DMA_USART1_tx/main.c",
+		"/D/Documents/IAR/stm32f407_acselerometers-master/include/uart_1.h",
+		"/D/Documents/IAR/rb100-i2c-DMA_USART1_tx-rb100-i2c-DMA_USART1_tx/rb100-i2c-DMA_USART1_tx-rb100-i2c-DMA_USART1_tx/inc/init_DMA.h",
+		"/D/Documents/IAR/stm32-f407+arduino-Ethernet-shield/include/system/stm32f4xx_conf.h",
+		"/D/Documents/IAR/stm32-f407+arduino-Ethernet-shield/include/system/system_stm32f4xx.h",
+		"/D/Documents/IAR/stm32f407_acselerometers-master/include/spi_1.h",
+		"/D/Documents/IAR/l152-i2c-l152-i2c/l152-i2c-l152-i2c/main.c",
+		"/D/Documents/IAR/stm32f407_acselerometers/include/initialization.h",
+		"/D/Documents/Rust/udp/main/src/main.rs",
+		"/D/Documents/Rust/udp/main.rs",
+		"/C/Users/Dmitry/Desktop/Новый текстовый документ.txt",
+		"/D/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/config.cfg",
+		"/D/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/config_default.cfg",
+		"/D/Steam/steamapps/downloading/730/csgo/cfg/config_default.cfg",
+		"/D/Steam/steamapps/downloading/730/csgo/cfg/config.360.cfg",
+		"/D/Documents/Rust/udp/main/test.txt",
+		"/C/Users/Dmitry/AppData/Local/Temp/142D.tmp.txt",
+		"/C/Program Files/Rust stable 1.0/racer-master/README.md",
+		"/D/Program Files/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/config.cfg",
+		"/C/Program Files/Rust stable 1.0/racer-master/src/main.rs",
+		"/C/Program Files/Rust stable 1.0/racer-master/src/racer/src2.rs",
+		"/C/Users/Dmitry/Documents/My Games/Fallout3/RendererInfo.txt",
+		"/C/Program Files/Rust stable 1.0/racer-master/src/racer/src.rs",
+		"/C/Program Files/Rust stable 1.0/rust-master/README.md",
+		"/D/Download/main.c",
+		"/D/Qt/qwt-trunk/qwt/INSTALL",
+		"/D/Qt/qwt-trunk/qwt/doc/install.dox",
+		"/D/Documents/Rust/udp/main.exe",
+		"/D/Fallout 3/readme.txt",
+		"/D/Documents/IAR/rb100-i2c-DMA_USART1_tx-rb100-i2c-DMA_USART1_tx/rb100-i2c-DMA_USART1_tx-rb100-i2c-DMA_USART1_tx/inc/parameters.h",
+		"/D/Documents/IAR/rb100-i2c-DMA_USART1_tx-rb100-i2c-DMA_USART1_tx/rb100-i2c-DMA_USART1_tx-rb100-i2c-DMA_USART1_tx/inc/init_gpio.h",
+		"/D/Documents/IAR/stm32-f407-GY521/include/system/stm32f4xx.h",
+		"/D/Download/AdaStyle.txt",
+		"/C/Users/Dmitry/Desktop/stm32_f105-07_f2_f4_usb-host-device_lib/STM32_USB-Host-Device_Lib_V2.1.0/Project/USB_Device_Examples/HID/readme.txt",
+		"/D/Documents/IAR/stm32f407_usb_hid_test/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c",
+		"/D/Documents/IAR/stm32-f407-GY521/include/system/startup_stm32f40xx.s",
+		"/D/Documents/IAR/stm32-f407-GY521/include/system/stm32f4xx_conf.h",
+		"/D/Documents/IAR/stm32f407_usb_hid_test/include/system/startup_stm32f40xx.s",
+		"/D/Documents/IAR/stm32f407_usb_hid_test/main.cpp",
+		"/D/Documents/IAR/stm32-f407-GY521/include/system/system_stm32f4xx.h",
+		"/D/Documents/IAR/stm32-f407-GY521/include/system/system_stm32f4xx.c",
+		"/D/Documents/IAR/stm32f4_dsp_stdperiph_lib/STM32F4xx_DSP_StdPeriph_Lib_V1.5.1/Libraries/CMSIS/Include/core_cm4.h",
+		"/D/Documents/IAR/stm32f4_dsp_stdperiph_lib/STM32F4xx_DSP_StdPeriph_Lib_V1.5.1/Libraries/CMSIS/README.txt",
+		"/D/Documents/IAR/stm32f407_usb_hid_test/include/system/stm32f4xx.h",
+		"/C/Users/Dmitry/Desktop/stm32_f105-07_f2_f4_usb-host-device_lib/STM32_USB-Host-Device_Lib_V2.1.0/Libraries/CMSIS/README.txt",
+		"/C/Users/Dmitry/Desktop/stm32_f105-07_f2_f4_usb-host-device_lib/STM32_USB-Host-Device_Lib_V2.1.0/Project/USB_Host_Device_Examples/DRD/readme.txt",
+		"/C/Users/Dmitry/Desktop/stm32_f105-07_f2_f4_usb-host-device_lib/STM32_USB-Host-Device_Lib_V2.1.0/Project/USB_Host_Device_Examples/DRD/src/main.c",
+		"/C/Users/Dmitry/Desktop/stm32_f105-07_f2_f4_usb-host-device_lib/STM32_USB-Host-Device_Lib_V2.1.0/Libraries/STM32_USB_Device_Library/Class/hid/src/usbd_hid_core.c",
+		"/D/Download/stm32cubef4/STM32Cube_FW_F4_V1.6.0/Utilities/PC_Software/STM32CubeUpdater/readme.txt",
+		"/C/Users/Dmitry/Desktop/stm32_f105-07_f2_f4_usb-host-device_lib/STM32_USB-Host-Device_Lib_V2.1.0/Libraries/STM32_USB_Device_Library/Class/hid/inc/usbd_hid_core.h",
+		"/C/Users/Dmitry/Desktop/untitled.txt",
+		"/D/Download/e1000-8.0.35/e1000-8.0.35/pci.updates",
+		"/D/Download/e1000-8.0.35/e1000-8.0.35/README",
+		"/D/Download/e1000-8.0.35/e1000-8.0.35/SUMS",
+		"/D/Download/e1000-8.0.35/e1000-8.0.35/src/kcompat_ethtool.c",
+		"/D/Download/e1000-8.0.35/e1000-8.0.35/e1000.7",
+		"/D/Download/e1000-8.0.35/e1000-8.0.35/e1000.spec",
+		"/H/e1000-8.0.35/e1000-8.0.35/README",
+		"/D/Download/e1000-8.0.35/e1000-8.0.35/src/Module.supported",
+		"/H/linux/eth/2.4-2.6/e1000-7.2.9/e1000-7.2.9/ldistrib.txt",
+		"/D/Documents/IAR/rb100-i2c-DMA_USART1_tx-rb100-i2c-DMA_USART1_tx/rb100-i2c-DMA_USART1_tx-rb100-i2c-DMA_USART1_tx/inc/i2c_1.h",
+		"/D/Documents/IAR/l152-i2c-l152-i2c/l152-i2c-l152-i2c/Inc/i2c.h"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"CR1",
+			"I2C1",
+			"read_i2C2",
+			"I2C1",
+			"I2C_SR1_SB",
+			"I2C2",
+			"i2C2",
+			"I2C2",
+			"HSITRIM",
+			"HSI",
+			"STM32F10X_MD_VL",
+			"HSI_VALUE",
+			"HSI",
+			"USART3",
+			"AFIO",
+			"HSE_VALUE",
+			"HSE",
+			"TIM2",
+			"TIM2_SR",
+			"TIM2",
+			"TCIF",
+			"HISR",
+			"HSIR",
+			"TCIFx",
+			"DMA1",
+			"DMA2_Stream5",
+			"DMA1",
+			"SxCR",
+			"S5CR",
+			"SxCNDTR",
+			"NDTR",
+			"SxNDTR",
+			"DMA1",
+			"NDTR",
+			"CHSE",
+			"DMA1",
+			"DMA1_Channel",
+			"DMA1_Channel4",
+			"PUPD",
+			"PU",
+			"PUP",
+			"PUPD",
+			"TXE",
+			"SPI_CR1_SSM",
+			"SPI1",
+			"AF0",
+			"AF",
+			"AFR",
+			"AFRH",
+			"AFR",
+			"RCC_APB1ENR",
+			"AF5_5",
+			"”",
+			"“",
+			"“buy",
+			"“",
+			"buffer",
+			"RCC_ClocksTypeDef",
+			"cstartup",
+			"cplusplus",
+			"__cplusplus",
+			"plus",
+			"cplusplus",
+			"cpl",
+			"STM32F40XX",
+			"STM32F40",
+			"cplusplus",
+			"с",
+			"C++",
+			"acc",
+			"I2C1",
+			"TIM6",
+			"I2C2_EV_IRQn",
+			"TIM6_IRQ",
+			"TIM6_IRQn",
+			"CEN",
+			"TIM6",
+			"TIM6_",
+			"TIM2",
+			"kerne",
+			"suse",
+			"linux",
+			"suppo",
+			"suse",
+			"I2C2",
+			"read_i2C2",
+			"buffer_i2c2",
+			"I2C1",
+			"i2c1",
+			"I2C1",
+			"i2c1",
+			"I2C1",
+			"I2C",
+			"I2C2",
+			"_TXE",
+			"TXEIE",
+			"USART1_IRQn",
+			"USART1",
+			"uart",
+			"GPIO_MODER_MODER15_0",
+			"GPIO_PUPDR_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 767,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								564,
+								478
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 60.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "include/i2c1.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1784,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								826,
+								826
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 60.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "include/init.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2826,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2092,
+								2092
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/Documents/IAR/stm32-f407-GY521/include/initialization.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2598,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1952,
+								1868
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 300.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "include/tasks.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								880,
+								880
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "include/usart3.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 279.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/build_Rust2.sublime-build",
+	"project": "stm32-f100-GY521.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Documents\\IAR\\stm32f407_usb_hid_test\\stm32_usb_hid_test.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
